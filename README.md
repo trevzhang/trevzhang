@@ -1,10 +1,9 @@
+### Hi there 👋
 - 👋 Hi, I’m @trevzhang
-- 👀 I’m interested in Java,DDD
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Algorithm
-- 📫 How to reach me ...
+- 🌱 I’m currently learning OpenCV, Raspberry Pi, Rust
 
-<!---
-trevzhang/trevzhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://github-readme-stats.vercel.app/api?username=trevzhang&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&layout=compact" alt="My github stats"/>
+
+- Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/trevzhang/count.svg)
