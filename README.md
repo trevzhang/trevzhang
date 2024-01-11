@@ -1,8 +1,9 @@
 ### Hi there 👋
-- 👋 Hi, I’m @trevzhang
-- 🌱 I’m currently learning PyTorch, Tensorflow
+- 👋 Hi, I’m @trevzhang, a full-time backend software developer.
+- 🌱 I’m currently working on Dynamic ThreadPool.
 
 ##  📝目前项目（Currently working on）
+-  Dynamic ThreadPool
 
 ##  🧑🏻‍💻学习项目（Learing）
 
