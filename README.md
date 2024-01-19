@@ -3,7 +3,6 @@
 - 🌱 I’m currently working on Dynamic ThreadPool.
 
 ##  📝目前项目（Currently working on）
--  Dynamic ThreadPool
 
 ##  🧑🏻‍💻学习项目（Learing）
 
