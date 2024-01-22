@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 👋 Hi, I’m @trevzhang, a full-time backend software developer.
-- 🌱 I’m currently working on Dynamic ThreadPool.
+- 🌱 I’m currently working on a payment channel gateway.
 
 ##  📝目前项目（Currently working on）
 
