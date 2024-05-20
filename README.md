@@ -3,6 +3,7 @@
 - 🌱 I’m currently working on a payment channel gateway.
 
 ##  📝目前项目（Currently working on）
+[scripts](https://github.com/trevzhang/scripts)
 [Romato](https://github.com/trevzhang/Romato)
 
 ##  🧑🏻‍💻学习项目（Learing）
